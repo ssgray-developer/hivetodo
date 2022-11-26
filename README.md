@@ -1,6 +1,6 @@
 # hivetodo
 
-A new Flutter project using cubit.
+A new Flutter Todo app using cubit as state management.
 
 ## Getting Started
 
